@@ -30,7 +30,7 @@ function Projects() {
               title="fashion shop"
               description="online shop where people could buy some shirts or pants."
               ghLink="https://github.com/longtranv/fashion_shop_react.git"
-              demoLink="https://vercel.com/longtranv/fashion-shop-react/7CmnhPha296B2PrBndT6XFvRjXZs"
+              demoLink="https://fashion-shop-react.vercel.app/"
             />
           </Col>
           <Col md={4} className="project-card">
